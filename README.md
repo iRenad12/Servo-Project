@@ -1,5 +1,6 @@
 # Servo-Project
 This project moves 2 servo opposite each other at the same time
+--
 📝 Project Title:
 
 Controlling Two Opposite Moving Servo Motors Using Arduino
