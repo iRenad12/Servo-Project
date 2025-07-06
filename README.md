@@ -26,8 +26,13 @@ The Arduino attaches each servo to pins D9 and D10.
 The first servo gradually moves from 0° to 180°.
 Simultaneously, the second servo moves from 180° down to 0°.
 Then the movement reverses and repeats continuously.
+<img width="937" alt="‏لقطة الشاشة ٢٠٢٥-٠٧-٠٦ في ١١ ٥١ ٠٣ ص" src="https://github.com/user-attachments/assets/cd64ff33-6b57-49de-9d3a-aa5188758ab2" />
+<img width="937" alt="‏لقطة الشاشة ٢٠٢٥-٠٧-٠٦ في ١١ ٥٢ ٠٥ ص" src="https://github.com/user-attachments/assets/ddc7ea26-9482-48dd-bf90-6665b5f100ed" />
+<img width="937" alt="‏لقطة الشاشة ٢٠٢٥-٠٧-٠٦ في ١١ ٥٢ ١٩ ص" src="https://github.com/user-attachments/assets/4ad96d02-de36-4aac-806f-49d9db1732b3" />
+
 
 💡 Possible Applications:
 Robotic arms
 Automated small doors
 Mechanisms requiring opposing movements
+
